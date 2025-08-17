@@ -1,6 +1,11 @@
 # PlayerStatusMod for Empyrion Galactic Survival
 
-A server-side mod that provides configurable player messaging functionality for Empyrion Galactic Survival dedicated servers. This mod is designed to work in conjunction with [Empyrion Web Helper](https://github.com/chaosz5050/empyrion-web-helper) for complete messaging management.
+[![Platform](https://img.shields.io/badge/Platform-Empyrion-blue?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/383120/Empyrion__Galactic_Survival/)
+[![Framework](https://img.shields.io/badge/.NET-Standard%202.0-purple?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
+[![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=for-the-badge)](https://github.com/chaosz5050/empyrion-mods/tree/main/PlayerStatusMod)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-red?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+A server-side mod that provides configurable player messaging functionality for Empyrion Galactic Survival dedicated servers. This mod is designed to work in conjunction with [Empyrion Web Helper](https://github.com/chaosz5050/empyrion-tools/tree/main/empyrion-web-helper) for complete messaging management.
 
 ## Features
 

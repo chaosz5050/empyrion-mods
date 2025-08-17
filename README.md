@@ -1,5 +1,10 @@
 # Empyrion Mods Collection
 
+[![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-blue?style=for-the-badge&logo=empyrion)](https://empyriongame.com/)
+[![C#](https://img.shields.io/badge/C%23-.NET%20Standard%202.0-green?style=for-the-badge&logo=csharp)](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
+[![Mods](https://img.shields.io/badge/Mods-5%20Available-orange?style=for-the-badge)](https://github.com/chaosz5050/empyrion-mods)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-red?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 A collection of Empyrion Galactic Survival mods created by René.
 
 ## 🎮 Available Mods

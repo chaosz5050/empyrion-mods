@@ -2,7 +2,7 @@
 
 [![Platform](https://img.shields.io/badge/Platform-Empyrion-blue?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/383120/Empyrion__Galactic_Survival/)
 [![Framework](https://img.shields.io/badge/.NET-Standard%202.0-purple?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
-[![Version](https://img.shields.io/badge/Version-2.0.1-orange?style=for-the-badge)](https://github.com/chaosz5050/VirtualBackpackMod)
+[![Version](https://img.shields.io/badge/Version-2.0.1-orange?style=for-the-badge)](https://github.com/chaosz5050/empyrion-mods/tree/main/VirtualBackpackMod)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-red?style=for-the-badge)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Overview
