@@ -1,0 +1,14 @@
+ModName: EmergencyHomeTeleportMod
+Version: 1.0.0
+Author: René
+Description: Emergency /home teleport with configurable daily uses (default 3). Player-only teleport; ships stay put.
+GameVersion: 1.0.0
+ModGuid: EmergencyHomeTeleportMod-bf0f797e-1ca3-4edd-8e17-07f1b2c27a21
+ModType: ModInterface
+ModDllName: EmergencyHomeTeleport.dll
+ModClass: EmergencyHomeTeleportMod
+LoadOnStart: true
+LoadOn:
+  - Dedicated
+  - Playfield
+Dependencies: []

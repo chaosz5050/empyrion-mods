@@ -1,0 +1,14 @@
+ModName: TriviaChallengeMod
+Version: 1.0.0
+Author: René
+Description: Hourly 5-question trivia challenge with join window, scoring, ties allowed, and credit payouts via /claim.
+GameVersion: 1.0.0
+ModGuid: TriviaChallengeMod-7f3a1b2c-4d5e-49ab-9f12-84b6c0d3e8a1
+ModType: IModApi
+ModDllName: TriviaChallengeMod.dll
+ModClass: TriviaChallengeMod
+LoadOnStart: true
+LoadOn:
+  - Dedicated
+  - Playfield
+Dependencies: []

@@ -1,0 +1,28 @@
+{
+  "schedule": { "mode": "hourly", "minute": 0 },
+  "joinWindowSeconds": 60,
+  "questionCount": 5,
+  "questionTimeSeconds": 30,
+  "tickEverySeconds": 5,
+  "noRepeatWindow": 40,
+  "allowZeroScoreWinners": false,
+  "reward": {
+    "credits": 50000,
+    "consoleCommandTemplate": "credits add {playerId} {amount}"
+  },
+  "messages": {
+    "announce": "[TRIVIA] New challenge in {join}s! Type /trivia join to participate.",
+    "joinConfirm": "[TRIVIA] You’re in. Get ready.",
+    "joinTick": "[TRIVIA] Starting in {secs}s… ({count} joined)",
+    "q": "[TRIVIA Q{n}] {question}",
+    "opts": "A) {A}  B) {B}  C) {C}  D) {D} — answer with /a <letter>",
+    "tick": "[TRIVIA] {secs}s left…",
+    "reveal": "[TRIVIA] Time! Correct: {letter}) {text}",
+    "roundWin": "[TRIVIA] Winners with {score}/5: {winners}",
+    "roundNoWin": "[TRIVIA] No winners this time.",
+    "claimable": "[TRIVIA] Winners: use /claim to receive {credits} credits.",
+    "claimed": "[TRIVIA] {player} claimed {credits} cr.",
+    "alreadyClaimed": "[TRIVIA] You already claimed this round.",
+    "notWinner": "[TRIVIA] You’re not on the winners list this round."
+  }
+}

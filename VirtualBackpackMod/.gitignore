@@ -1,0 +1,25 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio files
+*.user
+*.suo
+*.sln
+
+# Temporary files
+*.tmp
+*.bak*
+*.backup
+
+# Player data (runtime files - exclude from repo)
+PlayerData/
+*.vb*.json
+
+# IDE files
+.vs/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

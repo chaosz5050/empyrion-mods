@@ -1,0 +1,29 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio files
+*.user
+*.suo
+*.sln
+
+# Temporary files
+*.tmp
+*.bak*
+*.backup
+
+# IDE files
+.vs/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Package files
+*.nupkg
+*.snupkg
+
+# Runtime files (optional - include if you want to preserve state)
+trivia_state.json
+trivia.log

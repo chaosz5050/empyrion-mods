@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>TriviaChallengeMod</AssemblyName>
+    <RootNamespace>TriviaChallengeMod</RootNamespace>
+    <LangVersion>latest</LangVersion>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <Nullable>disable</Nullable>
+    <Optimize>true</Optimize>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ModApi">
+      <HintPath>References/ModApi.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Mif">
+      <HintPath>References/Mif.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <!-- Optional: copy config/question seeds on first build -->
+  <ItemGroup>
+    <None Include="trivia_config.json" CopyToOutputDirectory="PreserveNewest" />
+    <None Include="questions.json" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+</Project>

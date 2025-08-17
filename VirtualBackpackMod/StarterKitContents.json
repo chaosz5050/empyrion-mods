@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": 4119,
+      "count": 1,
+      "ammo": 125,
+      "decay": 0
+    },
+    {
+      "id": 4158,
+      "count": 100,
+      "ammo": 0,
+      "decay": 0
+    },
+    {
+      "id": 4148,
+      "count": 100,
+      "ammo": 0,
+      "decay": 0
+    },
+    {
+      "id": 4099,
+      "count": 1,
+      "ammo": 16,
+      "decay": 0
+    },
+    {
+      "id": 4349,
+      "count": 1,
+      "ammo": 0,
+      "decay": 0
+    },
+    {
+      "id": 4442,
+      "count": 5,
+      "ammo": 0,
+      "decay": 0
+    },
+    {
+      "id": 4104,
+      "count": 1,
+      "ammo": 750,
+      "decay": 0
+    },
+    {
+      "id": 4159,
+      "count": 100,
+      "ammo": 0,
+      "decay": 0
+    },
+    {
+      "id": 711,
+      "count": 1,
+      "ammo": 0,
+      "decay": 0
+    },
+    {
+      "id": 1485,
+      "count": 1,
+      "ammo": 0,
+      "decay": 0
+    },
+    {
+      "id": 4107,
+      "count": 1,
+      "ammo": 250,
+      "decay": 0
+    },
+    {
+      "id": 7314,
+      "count": 1,
+      "ammo": 0,
+      "decay": 0
+    },
+    {
+      "id": 7906,
+      "count": 10000,
+      "ammo": 0,
+      "decay": 0
+    }
+  ],
+  "creditsReward": 0,
+  "consoleCommandTemplate": ""
+}

@@ -1,0 +1,14 @@
+ModName: DeathMessagesMod
+Version: 1.0.0
+Author: René
+Description: Funny random death messages to lighten the mood when players die
+GameVersion: 1.0.0
+ModGuid: DeathMessagesMod-f1e2d3c4-5b6a-7890-cdef-123456789abc
+ModType: ModInterface
+ModDllName: DeathMessagesMod.dll
+ModClass: DeathMessagesMod
+LoadOnStart: true
+LoadOn:
+  - Dedicated
+  - Playfield
+Dependencies: []

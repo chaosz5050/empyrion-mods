@@ -1,0 +1,17 @@
+ModName: VirtualBackpackMod
+Version: 2.0.1
+Author: René
+Description: A Virtual Backpack mod for Empyrion
+GameVersion: 1.0.0
+ModGuid: VirtualBackpackMod-94893050-8b51-480b-b979-9fcbc74512ff
+ModType: ModInterface
+ModDllName: VirtualBackpackMod.dll
+ModClass: VirtualBackpackMod
+LoadOnStart: true
+LoadOn:
+  - Dedicated
+  - Playfield
+Dependencies: []
+AdminList:
+  # Additional admins (beyond server admins) can be added here
+  # - 123456789  # Example: manual admin ID (server admins auto-detected)
