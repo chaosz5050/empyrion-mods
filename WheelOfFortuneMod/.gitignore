@@ -4,5 +4,9 @@ obj/
 *.suo
 *.cache
 Thumbs.db
-*.DS_StoreCLAUDE.md
+*.DS_Store
+
+# Allow Reference DLLs needed for compilation
+!References/*.dll
+CLAUDE.md
 ITEM_MAPPING_SOLUTION.md
