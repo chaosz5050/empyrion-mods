@@ -1,0 +1,58 @@
+{
+  "perPlayer": {
+    "maxSpinsPerDay": 3,
+    "cooldownSeconds": 300
+  },
+  "rewardPool": [
+    {
+      "type": "item",
+      "amount": 1,
+      "itemId": 7901,
+      "label": "Salvage Token"
+    },
+    {
+      "type": "item",
+      "amount": 10,
+      "itemId": 7901,
+      "label": "Salvage Token"
+    },
+    {
+      "type": "item",
+      "amount": 100,
+      "itemId": 7901,
+      "label": "Salvage Token"
+    },
+    {
+      "type": "item",
+      "amount": 1000,
+      "itemId": 4344,
+      "label": "Credits"
+    },
+    {
+      "type": "item",
+      "amount": 10000,
+      "itemId": 4344,
+      "label": "Credits"
+    },
+    {
+      "type": "item",
+      "amount": 100000,
+      "itemId": 4344,
+      "label": "Credits"
+    },
+    {
+      "type": "neardeath",
+      "amount": 1,
+      "itemId": 0,
+      "label": "Near Death Experience!"
+    }
+  ],
+  "messages": {
+    "spinStart": "[WHEEL] Spinning the wheel for {player}…",
+    "won": "[WHEEL] {player} won {reward}!",
+    "cooldown": "[WHEEL] Cooldown active. Try again in {secs}s.",
+    "limit": "[WHEEL] You already used all {count} spins for today.",
+    "error": "[WHEEL] Something went wrong. Contact admin.",
+    "adminError": "[WHEEL] Hey admin, your wheel is broken! Need at least 3 prizes. What kind of wheel has 0-2 options? That's not a wheel, that's a coin flip!"
+  }
+}

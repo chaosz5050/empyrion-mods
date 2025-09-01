@@ -1,0 +1,14 @@
+ModName: WheelOfFortuneMod
+Version: 1.0.0
+Author: René
+Description: A wheel of fortune gambling system where players spin for random prizes with daily limits and cooldowns. Supports credits, items, experience points, skill points, and health manipulation.
+GameVersion: 1.0.0
+ModGuid: WheelOfFortuneMod-w1e2e3l4-5f6o-7890-rune-123456789abc
+ModType: ModInterface
+ModDllName: WheelOfFortuneMod.dll
+ModClass: WheelOfFortuneMod
+LoadOnStart: true
+LoadOn:
+  - Dedicated
+  - Playfield
+Dependencies: []
