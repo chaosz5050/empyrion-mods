@@ -10,3 +10,5 @@ Thumbs.db
 !References/*.dll
 CLAUDE.md
 ITEM_MAPPING_SOLUTION.md
+*Test*/
+*test*/
